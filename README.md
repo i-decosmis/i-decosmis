@@ -15,13 +15,17 @@ Welcome to my GitHub page! Make yourself comfortable and take a moment to explor
   * Classical, folk, rap and I also listen to a little rock music.
 * 📫 Reach me on: ivandecosmis.3@gmail.com
 
-## 📊 Github Stats
+## 🛡️ Github Stats
 ![i-decosmis's Stats](https://github-readme-stats.vercel.app/api?username=i-decosmis&theme=calm&show_icons=true&hide_border=false&count_private=true)
 ![i-decosmis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=i-decosmis&theme=calm&hide_border=false)
 
+## 🐍 My Activity
+<div align="center">
+  <br clear="both">
+  <img src="https://raw.githubusercontent.com/i-decosmis/i-decosmis/output/snake.svg" alt="Snake Animation"/>
+</div>
 
 ## 💻 Programming Languages & Frameworks I Work With
-
 <div align="left">
     <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -35,19 +39,3 @@ Welcome to my GitHub page! Make yourself comfortable and take a moment to explor
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="matplotlib" width="40" height="40"/></a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </div>
-  
-
-<!--
-**i-decosmis/i-decosmis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
