@@ -1,7 +1,11 @@
 ## Beyond Code: Projects & Passion 🐉🔥
 [![Linkedin Badge](https://img.shields.io/badge/-Ivan_De_Cosmis-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ivan-de-cosmis)](www.linkedin.com/in/ivan-de-cosmis)
-
+---
 Welcome to my GitHub page! Make yourself comfortable and take a moment to explore my projects and ideas. Whether you're here to learn, collaborate, or simply browse, I hope you find something that sparks your interest!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/i-decosmis/i-decosmis/main/images/knight-rest.gif" alt="Knight Rest" width="100%" />
+</p>
+
 
 * ⚜️ I'm Ivan De Cosmis.
 * 🤵‍♂️ I'm a 25 year old boy.
@@ -14,7 +18,7 @@ Welcome to my GitHub page! Make yourself comfortable and take a moment to explor
   * TTRPG.
   * Classical, folk, rap and I also listen to a little rock music.
 * 📫 Reach me on: ivandecosmis.3@gmail.com
-
+  
 ## 🛡️ Github Stats
 ![i-decosmis's Stats](https://github-readme-stats.vercel.app/api?username=i-decosmis&theme=calm&show_icons=true&hide_border=false&count_private=true)
 ![i-decosmis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=i-decosmis&theme=calm&hide_border=false)
